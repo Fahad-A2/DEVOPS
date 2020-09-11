@@ -9,7 +9,6 @@ Net als een timmerman goed moet leren omgaan met zijn gereedschap om zijn vak é
 In jouw gereedschapskist is jouw editor misschien wel het belangrijkste stuk gereedschap. VS Code is gebouwd om jouw het leven gemakkelijker te maken terwijl je software schrijft, dus het loont de moeite om je daarin te verdiepen.
 
 > Als je merkt dat je meerdere keren eenzelfde actie uitvoert tijdens je werk kan het zijn dat er een gemakkelijkere of snellere manier is om die actie uit te voeren. Je bent vrijwel nooit de eerste die tegen iets aanloopt dus google even naar een handige oplossing zodat je nog effecienter kan werken! 
-
 ## Leerdoelen
 
 1. Ik kan de verschillende interface-elementen binnen VS Code benoemen
